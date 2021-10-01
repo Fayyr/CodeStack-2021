@@ -3,13 +3,13 @@
 ### This repository contains a few problems from CSI RAIT's Codestack 2021 as examples.
 <br /><br />
 
-# Requirements
->## 1. GNU C/C++ Compiler
->## 2. Python v3+
+## Requirements : 
+>### 1. GNU C/C++ Compiler
+>### 2. Python v3+
 
 <br>
 
-# Steps 
+## Steps :
 
 <br />
 
